@@ -8,4 +8,4 @@
 # Ignore any other files or directories you don't want to track
 
 # Ignore Terraform lock file
-terraform.lock.hcl
+.terraform.lock.hcl
